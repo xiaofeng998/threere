@@ -20,7 +20,7 @@ HEIGHT = args.height
 OUTPUT = args.output
 
 #这里的list可以自己定义
-ascii_char = list("我是傻瓜ya1怎么压不能提交是什么鬼 ")
+ascii_char = list("我是傻瓜ya1怎么压不能提交是什么鬼测试一下 ")
 
 # 将256灰度映射到70个字符上
 def get_char(r,g,b,alpha = 256):
