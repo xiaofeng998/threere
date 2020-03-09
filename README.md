@@ -5,3 +5,4 @@
 本地新建readme,还不能上传。。。。。。
 哦豁，还没同步。。。git pull origin master 无效...git pull --rebase origin master 无效。
 只留github一个仓库，同步，哦豁好了。。
+哦吼，现在码云不同步了。。。。
